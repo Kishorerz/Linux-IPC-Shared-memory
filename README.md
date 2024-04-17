@@ -18,7 +18,7 @@ Write the C Program using Linux Process API - Shared Memory
 ### Step 3:
 
 Execute the C Program for the desired output. 
-### NAE: Kishor Kumar B.
+### NAME: Kishor Kumar B.
 ### 212223240072
 
 # PROGRAM:
